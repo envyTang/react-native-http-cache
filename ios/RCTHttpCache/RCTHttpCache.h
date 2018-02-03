@@ -6,7 +6,7 @@
 //  Copyright © 2015 erica. All rights reserved.
 //
 
-#import "RCTBridgeModule.h"
+#import "RCTImageCache.h"
 
 @interface RCTHttpCache : NSObject<RCTBridgeModule>
 
