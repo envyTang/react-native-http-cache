@@ -1,3 +1,7 @@
+# 适配0.57.1
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
 React Native http cache control for both fetch/XMLHttpRequest and ImageView
 
 - [x] iOS
